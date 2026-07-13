@@ -1,0 +1,8 @@
+name: performance_test
+description: Skrip pengujian success rate IDentia
+environment:
+  sdk: '^3.10.0'
+
+dependencies:
+  cryptography: ^2.7.0
+  http: ^1.2.0

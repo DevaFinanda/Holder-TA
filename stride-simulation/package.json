@@ -1,0 +1,23 @@
+{
+  "name": "stride-simulation",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "jest --verbose",
+    "test:spoofing": "jest spoofing.test.ts --verbose",
+    "test:tampering": "jest tampering.test.ts --verbose",
+    "test:repudiation": "jest repudiation.test.ts --verbose",
+    "test:dos": "jest dos.test.ts --verbose",
+    "test:elevation": "jest elevation.test.ts --verbose",
+    "test:all": "jest --verbose --runInBand"
+  },
+  "devDependencies": {
+    "@types/jest": "^29.x",
+    "jest": "^29.x",
+    "ts-jest": "^29.x",
+    "typescript": "^5.x"
+  },
+  "dependencies": {
+    "jose": "^5.x",
+    "axios": "^1.x"
+  }
+}
