@@ -11,13 +11,13 @@ Aplikasi ini mendukung dua alur utama dalam ekosistem identitas terdesentralisas
 
 ## Fitur Utama
 
-- 🔐 **Manajemen kunci kriptografis** — pembuatan dan penyimpanan pasangan kunci **Ed25519** secara aman di perangkat.
-- 🆔 **Identitas terdesentralisasi** — pembuatan dan pengelolaan **DID:JWK** milik pengguna.
-- 📥 **Penerbitan kredensial (OID4VCI)** — menerima *Credential Offer* dari Issuer dan menyimpan **JWT Verifiable Credential**.
-- 📤 **Presentasi kredensial (OID4VP)** — menyusun **JWT Verifiable Presentation** dan mengirimkannya ke Verifier.
-- ✅ **Verifikasi tanda tangan** — validasi keaslian dan integritas kredensial menggunakan tanda tangan digital.
-- 💾 **Penyimpanan kredensial** — menyimpan koleksi VC milik pengguna secara lokal.
-- 📱 **Antarmuka lintas platform** — dibangun dengan Flutter (Android & iOS).
+- **Manajemen kunci kriptografis** — pembuatan dan penyimpanan pasangan kunci **Ed25519** secara aman di perangkat.
+- **Identitas terdesentralisasi** — pembuatan dan pengelolaan **DID:JWK** milik pengguna.
+- **Penerbitan kredensial (OID4VCI)** — menerima *Credential Offer* dari Issuer dan menyimpan **JWT Verifiable Credential**.
+- **Presentasi kredensial (OID4VP)** — menyusun **JWT Verifiable Presentation** dan mengirimkannya ke Verifier.
+- **Verifikasi tanda tangan** — validasi keaslian dan integritas kredensial menggunakan tanda tangan digital.
+- **Penyimpanan kredensial** — menyimpan koleksi VC milik pengguna secara lokal.
+- **Antarmuka lintas platform** — dibangun dengan Flutter (Android & iOS).
 
 ---
 
