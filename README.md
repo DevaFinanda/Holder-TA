@@ -107,8 +107,8 @@ flutter doctor
 Endpoint Issuer dan Verifier didefinisikan sebagai konstanta di dalam kode. Sesuaikan nilainya dengan lingkungan Anda:
 
 ```dart
-const String kBaseUrlIssuer   = 'https://issuer.identia.my.id';
-const String kBaseUrlVerifier = 'https://verifier.identia.my.id';
+const String kBaseUrlIssuer   = 'https://issuer.identia.<sub domain>';
+const String kBaseUrlVerifier = 'https://verifier.identia.<sub domain>';
 const String kPathCredentialOffer = '/.well-known/openid-credential-issuer';
 ```
 
