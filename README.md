@@ -1,15 +1,5 @@
 # IDentia
 
-> Aplikasi dompet identitas terdesentralisasi (Self-Sovereign Identity) berbasis **Flutter** yang mengimplementasikan **W3C Verifiable Credentials** dengan alur **OID4VCI** dan **OID4VP**.
-
-[![Flutter](https://img.shields.io/badge/Flutter-3.x-02569B?logo=flutter&logoColor=white)](https://flutter.dev)
-[![Dart](https://img.shields.io/badge/Dart-3.x-0175C2?logo=dart&logoColor=white)](https://dart.dev)
-[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
-
----
-
-## Deskripsi
-
 **IDentia** adalah aplikasi mobile yang memungkinkan pengguna menyimpan, mengelola, dan mempresentasikan **Verifiable Credentials (VC)** secara mandiri tanpa bergantung pada otoritas terpusat. Setiap pengguna memiliki pasangan kunci kriptografis sendiri (**Ed25519**) dan identitas terdesentralisasi berbasis **DID:JWK**, sehingga kendali penuh atas data identitas berada di tangan pemilik (*self-sovereign identity*).
 
 Aplikasi ini mendukung dua alur utama dalam ekosistem identitas terdesentralisasi:
